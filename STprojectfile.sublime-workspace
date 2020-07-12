@@ -1,0 +1,782 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"init",
+				"initU"
+			],
+			[
+				"sol",
+				"solveUVMomentum"
+			],
+			[
+				"virtua",
+				"virtualFunction"
+			],
+			[
+				"derv",
+				"derivedObject"
+			],
+			[
+				"base",
+				"baseObject"
+			],
+			[
+				"virt",
+				"virtualFunction"
+			],
+			[
+				"norma",
+				"normalFunction"
+			],
+			[
+				"outp",
+				"outputBox"
+			],
+			[
+				"red",
+				"redirectConsoleLog"
+			],
+			[
+				"out",
+				"outputBox"
+			],
+			[
+				"scrll",
+				"scrollBar"
+			],
+			[
+				"log",
+				"log_file_exists"
+			],
+			[
+				"FDS",
+				"FDSscript"
+			],
+			[
+				"print",
+				"print_time"
+			],
+			[
+				"Onst",
+				"OnStart"
+			],
+			[
+				"Ons",
+				"OnStart"
+			],
+			[
+				"On",
+				"OnStop"
+			],
+			[
+				"text",
+				"text_widget"
+			],
+			[
+				"re",
+				"retrieve_ncores"
+			],
+			[
+				"lock",
+				"lock_input"
+			],
+			[
+				"si",
+				"sim_executed_sleeptime"
+			],
+			[
+				"name",
+				"name_array"
+			],
+			[
+				"Sim",
+				"Simulation"
+			],
+			[
+				"Simulation",
+				"Simulation_Directory"
+			],
+			[
+				"mpi_",
+				"mpi_process_array"
+			],
+			[
+				"mpi",
+				"mpi_process_array"
+			],
+			[
+				"key",
+				"keyarray"
+			],
+			[
+				"end",
+				"endtime_array"
+			],
+			[
+				"curre",
+				"currenttime_array"
+			],
+			[
+				"sim",
+				"sim_end_time"
+			],
+			[
+				"cu",
+				"currenttime_array"
+			],
+			[
+				"ke",
+				"keyarray"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"sim_prog",
+				"sim_prog_name_array"
+			],
+			[
+				"chosen_",
+				"chosen_out_path"
+			],
+			[
+				"make",
+				"make_dictionary"
+			],
+			[
+				"prog",
+				"prog_key_array"
+			],
+			[
+				"mesh",
+				"meshes_found"
+			],
+			[
+				"chosen",
+				"chosen_sim_path"
+			],
+			[
+				"sim_pro",
+				"sim_progress_perc"
+			],
+			[
+				"c",
+				"current_time_perc"
+			],
+			[
+				"open",
+				"open_out_file"
+			],
+			[
+				"read",
+				"readlines"
+			],
+			[
+				"ope",
+				"open_out_file"
+			],
+			[
+				"loo",
+				"loop_sleeptime"
+			],
+			[
+				"projec",
+				"project_dictionary"
+			],
+			[
+				"num",
+				"number_of_meshes"
+			],
+			[
+				"dict",
+				"dictionary"
+			],
+			[
+				"update",
+				"update_dictionary"
+			],
+			[
+				"r",
+				"run_sim"
+			],
+			[
+				"proce",
+				"process_array"
+			],
+			[
+				"pr",
+				"print_process_array"
+			],
+			[
+				"number",
+				"number_of_vids"
+			],
+			[
+				"run_ffm",
+				"run_ffmpeg_multi"
+			],
+			[
+				"image",
+				"image_name"
+			],
+			[
+				"write",
+				"write_batch"
+			],
+			[
+				"core",
+				"cores_free"
+			],
+			[
+				"cho",
+				"chosen_sim"
+			],
+			[
+				"pro",
+				"project_dictionary"
+			],
+			[
+				"dir",
+				"change_dir"
+			],
+			[
+				"p",
+				"projects"
+			],
+			[
+				"crea",
+				"create_batch"
+			],
+			[
+				"key_array",
+				"key_array_check"
+			],
+			[
+				"k",
+				"enter_key"
+			],
+			[
+				"free",
+				"free_cpus"
+			],
+			[
+				"upd",
+				"updated_dictionary"
+			],
+			[
+				"get",
+				"get_meshcount"
+			],
+			[
+				"pri",
+				"print_chosen_sim"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 318,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/ldcsolver.h",
+			"settings":
+			{
+				"buffer_size": 1165,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/ldcsolver.cpp",
+			"settings":
+			{
+				"buffer_size": 9259,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/__PROJECTS__/CPP/LDC/main.cpp",
+			"settings":
+			{
+				"buffer_size": 5986,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "Syntax Check",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/__PROJECTS__/CPP/LDC_2",
+		"/C/__PROJECTS__/CPP/LDC_2/src"
+	],
+	"file_history":
+	[
+		"/C/__PROJECTS__/CPP/LDC_2/src/ldcsolver.cpp",
+		"/C/__PROJECTS__/CPP/LDC_2/STprojectfile.sublime-project",
+		"/C/__PROJECTS__/CPP/LDC_2/include/matrix.h",
+		"/C/__PROJECTS__/CPP/LDC_2/src/matrix.cpp",
+		"/C/Users/uknxc026/Documents/Sublime/Data/Packages/User/cpp_release.sublime-build",
+		"/C/__PROJECTS__/CPP/test/main.cpp",
+		"/C/__PROJECTS__/CPP/LDC_2/matrix.cpp",
+		"/C/__PROJECTS__/CPP/LDC_2/matrix.h",
+		"/C/__PROJECTS__/CPP/LDC_2/ldcsolver.cpp",
+		"/C/__PROJECTS__/CPP/LDC_2/ldcsolver.h",
+		"/C/__PROJECTS__/CPP/LDC_2/main.cpp",
+		"/C/__PROJECTS__/CPP/LDC/main.cpp",
+		"/C/__PROJECTS__/CPP/LDC_LB/main.cpp",
+		"/C/__PROJECTS__/OldStreetRoundabout/Technical Note/Images/U2/U2-visZ/imageCrop.py",
+		"/C/__PROJECTS__/OldStreetRoundabout/Technical Note/Images/U11/U11-visZ/imageMerger.py",
+		"/C/__PROJECTS__/OldStreetRoundabout/Technical Note/Images/U8/U8-visZ/imageMerger.py",
+		"/C/__PROJECTS__/OldStreetRoundabout/Technical Note/Images/U57/U57-visZ/imageMerger.py",
+		"/C/__PROJECTS__/OldStreetRoundabout/Technical Note/Images/U57/U57-visZ/imageCrop.py",
+		"/C/__PROJECTS__/OldStreetRoundabout/Technical Note/Images/U57/U57-visZ/imageCrop",
+		"/C/__PROJECTS__/Autoprocess - python/GUI-20200701/src/pyAP_readMAT06.py",
+		"/C/__PROJECTS__/Autoprocess - python/GUI-20200701/src/pyAP_GUI02.py",
+		"/C/__PROJECTS__/Autoprocess - python/GUI-20200701/src/pyAP1.0.10.py",
+		"/C/__PROJECTS__/OldStreetRoundabout/Technical Note/Images/U2/U2-visZ/imageMerger.py",
+		"/C/__PROJECTS__/OldStreetRoundabout/Technical Note/Images/U2/imageMerger.py",
+		"/C/__PROJECTS__/OldStreetRoundabout/Technical Note/Images/imageMerger.py",
+		"/C/__PROJECTS__/OldStreetRoundabout/FDS/LIVE/MITIGATION/__NEW__v2/imageMerger.py",
+		"/C/__PROJECTS__/Autoprocess - python/GUI-20200701 - original/src/pyAP1.0.10.py",
+		"/C/__PROJECTS__/Autoprocess - python/Working_V2/alternative/pyAP_supFunc00.py",
+		"/C/__PROJECTS__/Autoprocess - python/Working_V2/alternative/pyAP_EXE00.py",
+		"/C/__PROJECTS__/Parliamentary_Tunnels/Simulations/test/system/fvOptions.bak",
+		"/C/__PROJECTS__/Autoprocess - python/GUI Integration/pyAP_GUI01.py",
+		"/C/__PROJECTS__/Autoprocess - python/GUI Integration/pyAP_supFunc00.py",
+		"/C/__PROJECTS__/Autoprocess - python/GUI Integration/pyAP_Engine00.py",
+		"/C/__PROJECTS__/Autoprocess - python/GUI Integration/pyAPpy.py",
+		"/C/__PROJECTS__/Autoprocess - python/GUI Integration/test2",
+		"/C/__PROJECTS__/Autoprocess - python/ORIGINAL/pyAP_supFunc00.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/__VERSION__/GUI_redesign_pathdir_grid_exefix/GUI.py",
+		"/C/__PROJECTS__/Autoprocess - python/test.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_GUI00_experimental2.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_GUI00_experimental.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/__VERSION__/GUI_redesign_pathdir_grid_exefix/pyAP_GUI00_experimental.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_GUI00.py",
+		"/C/__PROJECTS__/Autoprocess - python/ORIGINAL/pyAP_GUI00.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_GUI00 - Copy.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_CMP03.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_EXE00.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_GUI00_TESTING.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_buildSVS04.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP1.0.9.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_supFunc00.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_runVis02.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_runSVS02.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_readMAT05.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_runParallel02.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_ppSVS02.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_readINP00.py",
+		"/C/__PROJECTS__/Autoprocess - python/pyAP_outVer02.py",
+		"/C/__PROJECTS__/Autoprocess - python/__init__.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/__VERSION__/GUI_redesign_pathdir_grid/GUI.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/__VERSION__/GUI_redesign_pathdir_grid/FDSScheduler.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/__VERSION__/GUI_redesign_pathdir_grid/NEW2/FDSScheduler.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/__VERSION__/GUI_redesign_pathdir_grid/NEW2/GUI.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/__VERSION__/GUI_redesign_pathdir_grid/NEW/FDSScheduler.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/__VERSION__/GUI_redesign_pathdir_grid/NEW/GUI.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/widgetread.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/gui_v2_no_threading.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/queuhandler_edited.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/moshedefault.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/queuhandler.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/printtolog.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/trafficlights.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/LIVE/fds_scheduler_v47_SCRIPT.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/gui_v2.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/outputtest.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/outputtest_queu.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/gui.py",
+		"//d19uk0044/PROJECTS/SHEEPHOUSE_WOOD/SHW-FDS-WIND-005/SHW-FDS-WIND-005.fds",
+		"//d19uk0029/PROJECTS/SHEEPHOUSE_WOOD/SHW-FDS-WIND-015/SHW-FDS-WIND-015.fds",
+		"//d19uk0029/PROJECTS/SHEEPHOUSE_WOOD/SHW-FDS-WIND-018/SHW-FDS-WIND-018.fds",
+		"/C/__PROJECTS__/FDS_script/LIVE/test4.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/test6.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/misc/gui.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/FDS_Scheduler_guimultiproc_v3.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/FDS_Scheduler_guimultiproc_v2.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/LIVE/DUAL_fds_scheduler_v47.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/DUAL_gui_multiproc_v3.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/DUAL_gui_multiproc_v2_live2.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/DUAL_fds_scheduler_v47.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/test7.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/test5.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/DUAL_gui_multiproc_v4startkill.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/test3.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/test2.py",
+		"/C/__PROJECTS__/FDS_script/LIVE/test1.py",
+		"/C/__PROJECTS/FDS_script/LIVE/DUAL_gui_multiproc_v2.py",
+		"/C/__PROJECTS/FDS_script/LIVE/test5.py",
+		"/C/__PROJECTS/FDS_script/LIVE/DUAL_gui_multiproc_v2_live2.py",
+		"/C/__PROJECTS/FDS_script/LIVE/outputtest.py",
+		"/C/__PROJECTS/FDS_script/LIVE/DUAL_gui_multiproc_v2_live.py",
+		"/C/__PROJECTS/FDS_script/LIVE/DUAL_fds_scheduler_v47.py",
+		"/C/__PROJECTS/FDS_script/LIVE/DUAL_gui.py",
+		"/C/__PROJECTS/FDS_script/LIVE/test6.py",
+		"/C/__PROJECTS/FDS_script/LIVE/test7.py",
+		"/C/__PROJECTS/FDS_script/LIVE/DUAL_gui_multiproc.py",
+		"/C/__PROJECTS/FDS_script/LIVE/DUAL_gui_multiproc_v4startkill.py",
+		"/C/__PROJECTS/FDS_script/LIVE/DUAL_gui_multiproc_v3.py",
+		"/C/__PROJECTS/FDS_script/LIVE/test4.py",
+		"/C/__PROJECTS/FDS_script/LIVE/gui_multiproc_test.py",
+		"/C/__PROJECTS/FDS_script/LIVE/gui.py",
+		"/C/__PROJECTS/FDS_script/LIVE/test4 - Copy.py",
+		"/C/__PROJECTS/FDS_script/LIVE/test3.py",
+		"/C/__PROJECTS/FDS_script/LIVE/LIVE/test.py",
+		"/C/__PROJECTS/FDS_script/test9.py",
+		"/C/__PROJECTS/FDS_script/LIVE/fds_scheduler_v47_62.py",
+		"/C/__PROJECTS/FDS_script/LIVE/fds_scheduler_v47.py",
+		"/C/__PROJECTS/FDS_script/LIVE/fds_scheduler_v47_671.py",
+		"/C/__PROJECTS/FDS_script/EXE/test2.py",
+		"/C/__PROJECTS/FDS_script/EXE/test1.py",
+		"/C/__PROJECTS/FDS_script/EXE/gui.py",
+		"/C/__PROJECTS/FDS_script/EXE/fds_scheduler_v47.py",
+		"/C/__PROJECTS/FDS_script/EXE/fds_scheduler_v47_SCRIPT.py",
+		"/C/__PROJECTS/FDS_script/EXE/fds_scheduler_v47_GUI.py",
+		"/C/__PROJECTS/FDS_script/gui.py",
+		"/C/__PROJECTS/FDS_script/fds_scheduler_func.py",
+		"/C/__PROJECTS/FDS_script/test7.py",
+		"/C/__PROJECTS/FDS_script/test8.py",
+		"/C/Users/uknxc026/Documents/KEEP_AWAKE.py",
+		"/C/Users/uknxc026/Documents/test8.py"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"re"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/ldcsolver.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1111,
+								1111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/ldcsolver.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6973,
+								6973
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2890.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/__PROJECTS__/CPP/LDC/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4976,
+								4976
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 297.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Release",
+	"project": "STprojectfile.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

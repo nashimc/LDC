@@ -1,0 +1,20 @@
+{
+    "folders":
+    [
+        {
+            "path": "bin/..",
+            "file_exclude_patterns": ["*.sublime-project"]
+        }
+    ],
+
+    "build_systems":
+    [
+        {
+            "name": "Build Release",
+            "working_dir": "${project_path}",
+            "cmd": "g++ -c src/*.cpp -std=c++14 -O3 -Wall -I include && g++ *.o -o bin/main -s -lmingw32 && start bin/main",
+            "selector": "source.c++",
+            "shell": true
+        }
+    ]
+}
